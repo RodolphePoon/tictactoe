@@ -1,3 +1,4 @@
 # tictactoe
-tictactoe using cocos2d Creator
-source https://github.com/RodolphePoon/tictactoeSource
+tictactoe using cocos2d Creator,
+
+source for tic tac toe https://github.com/RodolphePoon/tictactoeSource
